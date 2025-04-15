@@ -8,7 +8,7 @@ This repository contains the implementation for **Assessment 1** of the *Program
 
 ---
 
-## 📁 Project Structure
+##📁 Project Structure
 📄 Report Highlights
 Abstract, introduction, system design with pseudocode and structure diagrams.
 
@@ -18,7 +18,7 @@ Reflection on learning outcomes, challenges, and potential improvements.
 
 Instructions on running the application.
 
-##💡 Extension Ideas
+💡 Extension Ideas
 Graphical User Interface (GUI) using Tkinter or PyQt
 
 Database integration for persistent storage
