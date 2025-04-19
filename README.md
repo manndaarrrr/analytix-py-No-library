@@ -26,7 +26,7 @@ Database integration for persistent storage
 Real-time monitoring simulation using dynamic inputs
 
 👨‍⚕️ Authors
-M Nadi Shor Satpute
+Mandar Satpute
 
 MSc Big Data Analytics
 
